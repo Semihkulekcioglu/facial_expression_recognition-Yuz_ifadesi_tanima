@@ -16,18 +16,6 @@ build/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Model dosyaları
-*.h5
-*.hdf5
-*.pkl
-
-# Veri seti
-dataset/
-*.jpg
-*.jpeg
-*.png
-*.gif
-
 # IDE
 .vscode/
 .idea/
@@ -35,3 +23,16 @@ dataset/
 # Sistem dosyaları
 .DS_Store
 Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.*
+
+# Temporary files
+*.swp
+*.swo
+*~

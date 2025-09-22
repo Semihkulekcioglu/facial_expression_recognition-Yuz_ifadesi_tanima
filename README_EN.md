@@ -21,6 +21,8 @@ This project is an artificial intelligence system that detects human facial expr
 - High accuracy rate
 - Fast processing time
 
+<img width="450" height="450" alt="Output_1" src="https://github.com/user-attachments/assets/01bd669b-5b45-4f03-8b11-cc57b782e990" />
+
 ## 🛠️ Technologies Used
 
 - Python 3.8
@@ -55,7 +57,7 @@ pip install -r requirements.txt
 ```bash
 python train.py
 ```
-- Training may take approximately 2-3 hours
+- Training may take a few hours
 - Training results are saved as 'emotion_model.h5'
 - Training metrics can be monitored through terminal
 
